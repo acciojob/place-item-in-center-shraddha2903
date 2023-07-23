@@ -1,7 +1,7 @@
 
 /* Your CSS Code here. */
-.item-1{
-	display:flexbox;
-	flex-align:center;
+.holder{
+	display:flex;
+	justify-content:center;
 	align-item:center;
 }
