@@ -1,7 +1,10 @@
 
 /* Your CSS Code here. */
-#holder{
+.item-1{
 	display:flex;
 	justify-content:center;
 	align-items:center;
+	background-color:blue;
+	height:50px;
+	width:50px;
 }
